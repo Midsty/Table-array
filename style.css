@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+div {
+    display: inline-block;
+}
+button {
+    display: inline-block;
+    padding: 10px 20px;
+}
+#table {
+    display: block;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+#vergelijk {
+    background-color: #FFC350;
+    border: none;
+    color: black;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    width: 90px;
+    cursor: pointer;
+}
